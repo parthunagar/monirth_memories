@@ -15,6 +15,7 @@ import 'package:responsive_builder/responsive_builder.dart';
 import 'package:stacked/stacked.dart';
 import 'package:flutter/material.dart';
 import 'home_view_model.dart';
+
 part 'home_mobile.dart';
 part 'home_tablet.dart';
 part 'home_desktop.dart';

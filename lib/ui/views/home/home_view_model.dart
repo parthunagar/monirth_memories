@@ -13,7 +13,7 @@ import 'package:logger/logger.dart';
 
 class HomeViewModel extends BaseViewModel {
   HomeViewModel(){
-    init();
+    // init();
   }
 
   bool showProgressBar = false;

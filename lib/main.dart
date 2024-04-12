@@ -8,7 +8,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/services.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 import 'package:stacked_services/stacked_services.dart';
-// import 'core/locator.dart';
 import 'package:flutter/material.dart';
 import 'core/route/router.gr.dart';
 import 'package:firebase_app_check/firebase_app_check.dart';
